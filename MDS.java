@@ -1,6 +1,4 @@
 // Name: Aditya Viswanatham.
-// NetID: arv160730.
-// CS 3345 Project 3.
 
 package arv160730;
 
