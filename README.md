@@ -1,3 +1,3 @@
-# Multi-Dimensional-Search
+# Database Indexing in Java
 
-A program which facilitates product search involving multiple search parameters.
+An implementation of database indexing using Java
